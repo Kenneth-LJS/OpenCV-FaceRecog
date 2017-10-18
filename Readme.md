@@ -1,4 +1,4 @@
-** Setup **
+# Setup
 
 1. Install Python 3.6
 1. Install OpenCV 2.6 + opencv_contrib
